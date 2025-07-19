@@ -1,4 +1,4 @@
-<h1>#CP_Docs</h1>
+<h1>#AlgoDocs</h1>
 
 ## 📂 Danh Mục
 
